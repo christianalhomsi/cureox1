@@ -42,6 +42,11 @@ body {
   @apply bg-[var(--bg-primary)] text-[var(--text-primary)] antialiased;
 }
 
+/* Hide browser's default loading bar */
+#nprogress {
+  display: none !important;
+}
+
 /* Theme-aware text colors */
 .text-theme-primary {
   color: var(--text-primary);
