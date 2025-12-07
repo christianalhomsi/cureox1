@@ -1,0 +1,481 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products",
+    "pricing": "Pricing",
+    "requestDemo": "Try Demo",
+    "contactUs": "Contact Us",
+    "toggleTheme": "Toggle theme"
+  },
+  "hero": {
+    "title": "Transforming",
+    "titleHighlight": "Healthcare",
+    "titleEnd": "with Software",
+    "description": "Comprehensive healthcare software solutions for dental clinics, pharmacies, and medical practices, built on 20+ years of medical development experience.",
+    "requestDemo": "Try Interactive Demo",
+    "viewPricing": "View Pricing"
+  },
+  "features": {
+    "title": "Modern",
+    "titleHighlight": "Healthcare Software",
+    "description": "From clinic management to patient engagement, CureOx unifies your daily operations in a secure, cloud-ready platform.",
+    "clinicManagement": "Clinic Management",
+    "clinicManagementDesc": "Scheduling, electronic records, and billing built specifically for healthcare workflows.",
+    "pharmacyInventory": "Pharmacy & Inventory",
+    "pharmacyInventoryDesc": "Real-time inventory, prescription tracking, and regulatory-friendly reports.",
+    "patientExperience": "Patient Experience",
+    "patientExperienceDesc": "Mobile-friendly tools for appointments, medical history, and secure communication."
+  },
+  "products": {
+    "title": "Our",
+    "titleHighlight": "Products",
+    "description": "Integrated healthcare software solutions for dental clinics, pharmacies, and medical practices.",
+    "viewDetails": "View details",
+    "buyNow": "Buy now",
+    "productLabel": "Product",
+    "perMonth": "per year",
+    "startSubscription": "Start subscription",
+    "requestLiveDemo": "Try Demo",
+    "mobileApp": {
+      "title": "Download Mobile App",
+      "description": "Access your healthcare management on the go. Available for iOS and Android.",
+      "downloadIOS": "Download on App Store",
+      "downloadAndroid": "Get it on Google Play"
+    }
+  },
+  "productsPage": {
+    "titlePart1": "Healthcare software for",
+    "titlePart2": "every workflow",
+    "description": "Combine CureOx products to create a tailored platform for your clinics, pharmacies, and patients."
+  },
+  "homeProducts": {
+    "title": "Our",
+    "titleHighlight": "Products",
+    "description": "Integrated healthcare software solutions for dental clinics, pharmacies, and medical practices.",
+    "items": {
+      "dental": {
+        "title": "Dental Clinic Management System",
+        "description": "Complete practice management with patient records, scheduling, and billing."
+      },
+      "pharmacy": {
+        "title": "Pharmacy Management Program",
+        "description": "Inventory management and prescription tracking for modern pharmacies."
+      },
+      "medical": {
+        "title": "Medical Clinic Management Program",
+        "description": "All-in-one clinic platform with electronic health records and reporting."
+      },
+      "patient": {
+        "title": "Patient Companion App",
+        "description": "Mobile-first patient engagement with appointments, records, and secure messaging."
+      },
+      "distributor": {
+        "title": "Distributor Management Program",
+        "description": "Complete distribution management with inventory tracking, order processing, and supplier coordination."
+      }
+    }
+  },
+  "productContent": {
+    "dental": {
+      "name": "Dental Clinic Management System",
+      "short": "End-to-end software for modern dental practices with scheduling, charting, and billing.",
+      "long": "CureOx Dental brings together clinical workflows, patient communication, and revenue cycle in a single intuitive platform. From chairside charting to recall automation, every step is built for the realities of a busy dental clinic.",
+      "highlights": [
+        "Smart appointment scheduling and chair utilization",
+        "Clinical charting optimized for dental specialties",
+        "Insurance claims, billing, and financial reporting"
+      ]
+    },
+    "pharmacy": {
+      "name": "Pharmacy Management Program",
+      "short": "Inventory, dispensing, and prescription workflows in one secure system.",
+      "long": "CureOx Pharmacy keeps your inventory accurate, prescriptions compliant, and patient experience consistent. Track every movement from supplier to patient across one or multiple locations.",
+      "highlights": [
+        "Real-time stock monitoring and expiry tracking",
+        "E-prescription intake and dispensing workflows",
+        "Integrated reporting for compliance and purchasing"
+      ]
+    },
+    "medical": {
+      "name": "Medical Clinic Management Program",
+      "short": "EHR, scheduling, and billing for outpatient and specialty clinics.",
+      "long": "CureOx Clinic helps frontline teams manage appointments, document visits, and stay on top of revenue in a secure, cloud-ready solution with robust analytics built in.",
+      "highlights": [
+        "Configurable visit types and clinical workflows",
+        "Electronic health records with structured templates",
+        "Integrated billing, claims, and performance dashboards"
+      ]
+    },
+    "patient": {
+      "name": "Patient Companion App",
+      "short": "A mobile-first experience for appointments, records, and secure messaging.",
+      "long": "Give patients a single, secure place to view upcoming visits, lab results, and care plans while staying connected to your care team with built-in messaging and notifications.",
+      "highlights": [
+        "Self-service appointment booking and reminders",
+        "Access to visit summaries and lab results",
+        "Secure messaging between patients and care teams"
+      ]
+    },
+    "distributor": {
+      "name": "Distributor Management Program",
+      "short": "Comprehensive distribution management for medical supplies and pharmaceutical products.",
+      "long": "CureOx Distributor streamlines your distribution operations with real-time inventory tracking, automated order processing, and seamless coordination between suppliers and healthcare facilities.",
+      "highlights": [
+        "Multi-warehouse inventory management and tracking",
+        "Automated order processing and fulfillment workflows",
+        "Supplier and customer relationship management"
+      ]
+    }
+  },
+  "process": {
+    "title": "Our",
+    "titleHighlight": "Process",
+    "description": "We follow a structured approach to deliver solutions that perfectly match your requirements.",
+    "step1": {
+      "title": "Discovery & Analysis",
+      "description": "We begin by understanding your unique challenges and requirements through in-depth consultations."
+    },
+    "step2": {
+      "title": "Solution Design",
+      "description": "Our experts design a tailored solution blueprint that addresses your specific needs."
+    },
+    "step3": {
+      "title": "Development",
+      "description": "Our skilled development team brings the solution to life using cutting-edge technologies."
+    },
+    "step4": {
+      "title": "Testing & QA",
+      "description": "Rigorous testing ensures your solution meets the highest standards of performance and security."
+    },
+    "step5": {
+      "title": "Support",
+      "description": "We provide training, deployment, and ongoing support to ensure your success."
+    },
+    "step6": {
+      "title": "Evolution",
+      "description": "We continuously improve our solutions based on your feedback and industry trends."
+    }
+  },
+  "services": {
+    "title": "Our",
+    "titleHighlight": "Services",
+    "description": "We offer comprehensive software solutions tailored to the unique needs of healthcare professionals.",
+    "softwareDevelopment": {
+      "title": "Software Development",
+      "description": "Custom healthcare software solutions designed to meet your specific requirements."
+    },
+    "integrationServices": {
+      "title": "Integration Services",
+      "description": "Seamless integration with existing healthcare systems and third-party applications."
+    },
+    "dataManagement": {
+      "title": "Data Management",
+      "description": "Secure and efficient management of patient data and healthcare records."
+    },
+    "technicalSupport": {
+      "title": "Technical Support",
+      "description": "24/7 technical support and maintenance for all our healthcare software solutions."
+    }
+  },
+  "about": {
+    "title": "About",
+    "titleHighlight": "CureOx",
+    "description": "Our project represents a comprehensive system that integrates various elements and stakeholders within medical services. It facilitates seamless communication and delivers holistic healthcare solutions by bridging the gap between healthcare providers and beneficiaries.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower healthcare providers with technology that enhances patient care and operational efficiency."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading provider of integrated healthcare software solutions globally."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "A diverse group of experts combining healthcare knowledge with technical excellence."
+    }
+  },
+  "offlineApps": {
+    "title": "Offline Desktop",
+    "titleHighlight": "Applications",
+    "description": "Work without interruption with our offline desktop versions. All features available even without internet connection, with automatic sync when you're back online.",
+    "dental": {
+      "name": "Dental Clinic Desktop App",
+      "description": "Complete offline access to patient records, scheduling, and billing for your dental practice."
+    },
+    "pharmacy": {
+      "name": "Pharmacy Desktop App",
+      "description": "Manage inventory and prescriptions offline with seamless cloud synchronization."
+    },
+    "medical": {
+      "name": "Medical Clinic Desktop App",
+      "description": "Full EHR and clinic management capabilities available offline for uninterrupted care."
+    },
+    "learnMore": "Learn More"
+  },
+  "offlineProductContent": {
+    "dentalOffline": {
+      "name": "Dental Clinic Desktop Application",
+      "long": "Powerful offline desktop application for dental clinics. Work seamlessly without internet connection with full access to patient records, scheduling, charting, and billing. Automatic synchronization when online ensures your data is always up to date.",
+      "highlights": [
+        "Complete offline functionality with no internet required",
+        "Automatic cloud sync when connection is available",
+        "Full patient management and clinical charting"
+      ]
+    },
+    "pharmacyOffline": {
+      "name": "Pharmacy Desktop Application",
+      "long": "Robust offline desktop solution for pharmacies. Manage inventory, process prescriptions, and serve customers without internet dependency. All data syncs automatically when you're back online.",
+      "highlights": [
+        "Offline inventory and prescription management",
+        "Seamless cloud synchronization",
+        "Complete pharmacy workflow support"
+      ]
+    },
+    "medicalOffline": {
+      "name": "Medical Clinic Desktop Application",
+      "long": "Comprehensive offline desktop application for medical clinics. Access EHR, manage appointments, and document visits without internet connection. Automatic sync ensures data consistency across devices.",
+      "highlights": [
+        "Full EHR access offline",
+        "Appointment and billing management",
+        "Automatic data synchronization"
+      ]
+    }
+  },
+  "cta": {
+    "title": "Ready to modernize your healthcare practice?",
+    "description": "See CureOx in action with our interactive product demos tailored to your clinic or pharmacy workflow.",
+    "requestDemo": "Try Demo",
+    "talkToSales": "Talk to Sales"
+  },
+  "footer": {
+    "tagline": "Transforming healthcare with innovative software solutions.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact",
+    "location": "United States",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "contactSupport": "Contact Support",
+    "copyright": "© 2025 CureOx. All rights reserved."
+  },
+  "pricing": {
+    "titlePart1": "Simple, transparent",
+    "titlePart2": "pricing",
+    "description": "Choose the product that best matches your clinic or pharmacy. No hidden fees, no long-term lock-in.",
+    "perMonth": "/ year",
+    "choosePlan": "Choose plan",
+    "viewProductDetails": "View product details"
+  },
+  "contact": {
+    "title": "Contact us",
+    "description": "Choose your preferred way to reach us. We're here to help!",
+    "selectedPlan": "Selected Plan",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Chat with us instantly on WhatsApp",
+    "emailContact": "Email",
+    "emailDesc": "Send us an email and we'll respond shortly"
+  },
+  "demo": {
+    "title": "Explore CureOx Products",
+    "description": "Take a guided tour through our healthcare software solutions. See how each product can transform your practice.",
+    "interactiveTutorial": "Interactive Tutorial",
+    "selectProduct": "Choose a product to explore",
+    "step": "Step",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next Step",
+    "startSubscription": "Start Subscription",
+    "viewProductDetails": "View Full Product Details",
+    "requestLiveDemo": "Request Live Demo",
+    "dental": {
+      "step1": {
+        "title": "Dental Chart",
+        "description": "A visual tool that helps dentists mark the condition of each tooth, whether treated or requiring treatment. It provides a structured and clear way to document dental care.",
+        "feature1": "Visual teeth diagram",
+        "feature2": "Mark treated and untreated teeth",
+        "feature3": "Add notes for each tooth"
+      },
+      "step2": {
+        "title": "Treatment Plans",
+        "description": "Allows dentists to build a complete treatment plan for each patient, including sessions, steps, and estimated cost. It helps track progress and clearly explain the treatment pathway to the patient.",
+        "feature1": "Create customized plans for patients",
+        "feature2": "Track progress for each step",
+        "feature3": "Estimate cost and sessions"
+      },
+      "step3": {
+        "title": "Case Photos",
+        "description": "Lets dentists upload before-and-after images for dental cases, helping with evaluation, documentation, and showing patients their progress visually.",
+        "feature1": "Upload before/after images",
+        "feature2": "Store images per tooth or treatment",
+        "feature3": "Compare progress over time"
+      }
+    },
+    "pharmacy": {
+      "step1": {
+        "title": "Prescription Processing",
+        "description": "Helps pharmacists receive and verify digital prescriptions, then update their status as dispensed or pending. It speeds up the workflow and reduces mistakes.",
+        "feature1": "Receive digital prescriptions",
+        "feature2": "Verify doctor and patient info",
+        "feature3": "Mark prescription as dispensed"
+      },
+      "step2": {
+        "title": "Stock Lookup",
+        "description": "Allows pharmacists to quickly check medication availability and suggest suitable alternatives when an item is out of stock, improving patient service efficiency.",
+        "feature1": "Check availability of medicines",
+        "feature2": "Suggest alternatives when out of stock",
+        "feature3": "Show quantity and expiry date"
+      },
+      "step3": {
+        "title": "Supply Requests",
+        "description": "Enables pharmacists to submit requests for medicine supplies from the warehouse and track their status until delivery, preventing stock shortages in the pharmacy.",
+        "feature1": "Create supply requests to warehouse",
+        "feature2": "Track pending requests",
+        "feature3": "Notify when items are delivered"
+      }
+    },
+    "clinic": {
+      "step1": {
+        "title": "Patient File Access",
+        "description": "Gives doctors a comprehensive view of each patient's health history, helping them make accurate medical decisions and understand previous diagnoses or allergies without relying on paper files.",
+        "feature1": "Full medical history view",
+        "feature2": "Allergies and previous diagnoses",
+        "feature3": "Visit notes with timestamps"
+      },
+      "step2": {
+        "title": "Appointment Control",
+        "description": "Allows doctors to manage their booking requests by accepting, declining, or updating appointment statuses. It helps maintain an organized daily or weekly schedule.",
+        "feature1": "Approve or decline bookings",
+        "feature2": "Mark appointment status (pending, completed)",
+        "feature3": "Daily/weekly schedule view"
+      },
+      "step3": {
+        "title": "E-Prescription Writing",
+        "description": "Enables doctors to quickly create digital prescriptions and send them directly to pharmacies. The goal is to reduce handwriting errors and simplify the dispensing process for patients and pharmacists.",
+        "feature1": "Add medications with dosage",
+        "feature2": "Auto-fill common medicines",
+        "feature3": "Send prescription directly to the pharmacy"
+      }
+    },
+    "patient": {
+      "step1": {
+        "title": "Appointment Management",
+        "description": "This feature allows patients to book appointments with various medical specialties and easily view both upcoming and past visits. It provides a smooth scheduling experience without the need for phone calls or waiting times.",
+        "feature1": "Book appointments with different specialties",
+        "feature2": "View upcoming and past appointments",
+        "feature3": "Receive reminder notifications"
+      },
+      "step2": {
+        "title": "Digital Prescriptions",
+        "description": "Enables patients to access all their electronic prescriptions in an organized and clear format, helping them understand their medications and usage instructions. Prescriptions can also be downloaded when needed.",
+        "feature1": "Access all prescriptions issued by doctors",
+        "feature2": "Download prescriptions as PDF",
+        "feature3": "See medication instructions clearly"
+      },
+      "step3": {
+        "title": "Medical Records Overview",
+        "description": "Provides patients with a centralized view of their full medical history, including lab results, reports, and medical images. It serves as a permanent and easily accessible health reference.",
+        "feature1": "View lab results and reports",
+        "feature2": "Track chronic conditions",
+        "feature3": "Secure cloud storage for all medical documents"
+      }
+    },
+    "distributor": {
+      "step1": {
+        "title": "Inventory Management",
+        "description": "Allows warehouse staff to fully manage medicine stock, including adding new batches, updating quantities, and monitoring expiration dates for accurate inventory control.",
+        "feature1": "Add and update medicine stocks",
+        "feature2": "Track batch numbers",
+        "feature3": "Monitor expiration dates"
+      },
+      "step2": {
+        "title": "Pharmacy Supply Fulfillment",
+        "description": "Enables the warehouse to receive supply requests from pharmacies, approve them, and prepare the required medications for delivery in a timely manner.",
+        "feature1": "Receive pharmacy requests",
+        "feature2": "Approve or decline orders",
+        "feature3": "Generate delivery slips"
+      },
+      "step3": {
+        "title": "Monthly Reports",
+        "description": "Provides detailed monthly reports such as low-stock alerts, expired or near-expired medications, and quantities delivered to each pharmacy, supporting better operational decisions.",
+        "feature1": "Low-stock items report",
+        "feature2": "Expired/near expiry report",
+        "feature3": "Delivered quantities per pharmacy"
+      }
+    }
+  },
+  "login": {
+    "title": "Welcome back",
+    "description": "Sign in to manage your CureOx products, view analytics, and configure your organization.",
+    "emailAddress": "Email address",
+    "password": "Password",
+    "signingIn": "Signing in...",
+    "signIn": "Sign in",
+    "termsNotice": "By continuing you agree to the CureOx Terms of Service and Privacy Policy.",
+    "invalidEmail": "Please enter a valid email address.",
+    "enterPassword": "Please enter your password."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "description": "Choose the plan that works best for you.",
+    "selectedProduct": "Selected Product",
+    "individualPlans": "Individual Plans",
+    "centerPlans": "Center Plans",
+    "plan1": "Free Trial",
+    "plan1Duration": "15 days free",
+    "plan2": "2 Months",
+    "plan2Duration": "2 months access",
+    "plan3": "1 Year",
+    "plan3Duration": "12 months access",
+    "plan4": "2 Years",
+    "plan4Duration": "24 months access",
+    "popular": "Popular",
+    "selectPlan": "Select Plan",
+    "enterprisePlan": "Enterprise Plan",
+    "enterpriseDescription": "Custom solutions for medical centers and large organizations with dedicated support.",
+    "contactUs": "Contact Us"
+  },
+  "verifyEmail": {
+    "title": "Verify your email",
+    "pageDescription": "Enter the email and verification code sent to your inbox to complete account activation.",
+    "emailAddress": "Email address",
+    "verificationCode": "Verification code",
+    "invalidEmail": "Please enter a valid email address.",
+    "enterCode": "Please enter the verification code.",
+    "verifying": "Verifying...",
+    "verifyEmail": "Verify email",
+    "successMessage": "Email verified successfully. You can now sign in.",
+    "failedMessage": "Verification failed. Please check the code and try again."
+  },
+  "paymentStatus": {
+    "processingTitle": "Payment processing",
+    "processingMessage": "We are confirming your payment details. This usually takes a few moments.",
+    "successTitle": "Payment successful",
+    "successMessage": "Thank you for subscribing to CureOx. A receipt has been sent to your email.",
+    "failedTitle": "Payment failed",
+    "failedMessage": "We were unable to process your payment. Please try again or contact support.",
+    "reference": "Reference:"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: 2025",
+    "intro1": "CureOx builds healthcare software that helps organizations manage clinical and operational data securely. We are committed to protecting the privacy of providers and patients who use our products.",
+    "intro2": "This page is a concise representation of the full policy from the original CureOx site and can be extended with your legal team as needed.",
+    "infoCollectTitle": "Information we collect",
+    "infoCollectText": "We may collect contact details, account credentials, usage analytics, and limited technical information about the devices accessing our services.",
+    "howWeUseTitle": "How we use information",
+    "howWeUseText": "Data is used to provide and improve our products, secure access, respond to support requests, and comply with applicable regulations.",
+    "securityTitle": "Security and compliance",
+    "securityText": "CureOx applies technical and organizational safeguards designed for healthcare-grade security, including encryption, access controls, and monitoring.",
+    "contactTitle": "Contact",
+    "contactText": "For questions about this policy or data protection, please contact privacy@cureox.com."
+  },
+  "common": {
+    "switchToArabic": "العربية",
+    "switchToEnglish": "English"
+  }
+}
+

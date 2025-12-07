@@ -1,0 +1,481 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "products": "Produits",
+    "pricing": "Tarifs",
+    "requestDemo": "Essayer la démo",
+    "contactUs": "Nous contacter",
+    "toggleTheme": "Changer de thème"
+  },
+  "hero": {
+    "title": "Transformer",
+    "titleHighlight": "la santé",
+    "titleEnd": "avec des logiciels",
+    "description": "Solutions logicielles complètes pour les cliniques dentaires, les pharmacies et les cabinets médicaux, basées sur plus de 20 ans d'expérience en développement médical.",
+    "requestDemo": "Essayer la démo interactive",
+    "viewPricing": "Voir les tarifs"
+  },
+  "features": {
+    "title": "Logiciels de santé",
+    "titleHighlight": "modernes",
+    "description": "De la gestion de clinique à l'engagement des patients, CureOx unifie vos opérations quotidiennes dans une plateforme sécurisée et prête pour le cloud.",
+    "clinicManagement": "Gestion de clinique",
+    "clinicManagementDesc": "Planification, dossiers électroniques et facturation conçus spécifiquement pour les flux de travail de santé.",
+    "pharmacyInventory": "Pharmacie et inventaire",
+    "pharmacyInventoryDesc": "Inventaire en temps réel, suivi des ordonnances et rapports conformes à la réglementation.",
+    "patientExperience": "Expérience patient",
+    "patientExperienceDesc": "Outils adaptés aux mobiles pour les rendez-vous, l'historique médical et la communication sécurisée."
+  },
+  "products": {
+    "title": "Nos",
+    "titleHighlight": "produits",
+    "description": "Solutions logicielles de santé intégrées pour les cliniques dentaires, les pharmacies et les cabinets médicaux.",
+    "viewDetails": "Voir les détails",
+    "buyNow": "Acheter maintenant",
+    "productLabel": "Produit",
+    "perMonth": "par an",
+    "startSubscription": "Commencer l'abonnement",
+    "requestLiveDemo": "Essayer la démo",
+    "mobileApp": {
+      "title": "Télécharger l'application mobile",
+      "description": "Accédez à votre gestion de santé en déplacement. Disponible pour iOS et Android.",
+      "downloadIOS": "Télécharger sur App Store",
+      "downloadAndroid": "Disponible sur Google Play"
+    }
+  },
+  "productsPage": {
+    "titlePart1": "Logiciels de santé pour",
+    "titlePart2": "chaque flux de travail",
+    "description": "Combinez les produits CureOx pour créer une plateforme adaptée à vos cliniques, pharmacies et patients."
+  },
+  "homeProducts": {
+    "title": "Nos",
+    "titleHighlight": "produits",
+    "description": "Solutions logicielles de santé intégrées pour les cliniques dentaires, les pharmacies et les cabinets médicaux.",
+    "items": {
+      "dental": {
+        "title": "Système de gestion de clinique dentaire",
+        "description": "Gestion complète du cabinet avec dossiers patients, planification et facturation."
+      },
+      "pharmacy": {
+        "title": "Programme de gestion de pharmacie",
+        "description": "Gestion des stocks et suivi des ordonnances pour les pharmacies modernes."
+      },
+      "medical": {
+        "title": "Programme de gestion de clinique médicale",
+        "description": "Plateforme de clinique tout-en-un avec dossiers de santé électroniques et rapports."
+      },
+      "patient": {
+        "title": "Application compagnon patient",
+        "description": "Engagement patient mobile avec rendez-vous, dossiers et messagerie sécurisée."
+      },
+      "distributor": {
+        "title": "Programme de gestion de distributeur",
+        "description": "Gestion complète de la distribution avec suivi des stocks, traitement des commandes et coordination des fournisseurs."
+      }
+    }
+  },
+  "productContent": {
+    "dental": {
+      "name": "Système de gestion de clinique dentaire",
+      "short": "Logiciel de bout en bout pour les cabinets dentaires modernes avec planification, graphiques et facturation.",
+      "long": "CureOx Dental rassemble les flux de travail cliniques, la communication avec les patients et le cycle de revenus dans une seule plateforme intuitive. Du graphique au fauteuil à l'automatisation des rappels, chaque étape est conçue pour les réalités d'une clinique dentaire occupée.",
+      "highlights": [
+        "Planification intelligente des rendez-vous et utilisation des fauteuils",
+        "Graphiques cliniques optimisés pour les spécialités dentaires",
+        "Réclamations d'assurance, facturation et rapports financiers"
+      ]
+    },
+    "pharmacy": {
+      "name": "Programme de gestion de pharmacie",
+      "short": "Inventaire, distribution et flux de travail des ordonnances dans un système sécurisé.",
+      "long": "CureOx Pharmacy maintient votre inventaire précis, vos ordonnances conformes et l'expérience patient cohérente. Suivez chaque mouvement du fournisseur au patient sur un ou plusieurs emplacements.",
+      "highlights": [
+        "Surveillance des stocks en temps réel et suivi des dates d'expiration",
+        "Réception d'ordonnances électroniques et flux de travail de distribution",
+        "Rapports intégrés pour la conformité et les achats"
+      ]
+    },
+    "medical": {
+      "name": "Programme de gestion de clinique médicale",
+      "short": "DSE, planification et facturation pour les cliniques ambulatoires et spécialisées.",
+      "long": "CureOx Clinic aide les équipes de première ligne à gérer les rendez-vous, documenter les visites et rester au top des revenus dans une solution sécurisée et prête pour le cloud avec des analyses robustes intégrées.",
+      "highlights": [
+        "Types de visites configurables et flux de travail cliniques",
+        "Dossiers de santé électroniques avec modèles structurés",
+        "Facturation intégrée, réclamations et tableaux de bord de performance"
+      ]
+    },
+    "patient": {
+      "name": "Application compagnon patient",
+      "short": "Une expérience mobile pour les rendez-vous, les dossiers et la messagerie sécurisée.",
+      "long": "Donnez aux patients un endroit unique et sécurisé pour consulter les visites à venir, les résultats de laboratoire et les plans de soins tout en restant connectés à votre équipe de soins avec messagerie et notifications intégrées.",
+      "highlights": [
+        "Réservation de rendez-vous en libre-service et rappels",
+        "Accès aux résumés de visites et résultats de laboratoire",
+        "Messagerie sécurisée entre patients et équipes de soins"
+      ]
+    },
+    "distributor": {
+      "name": "Programme de gestion de distributeur",
+      "short": "Gestion complète de la distribution pour les fournitures médicales et les produits pharmaceutiques.",
+      "long": "CureOx Distributor rationalise vos opérations de distribution avec suivi des stocks en temps réel, traitement automatisé des commandes et coordination transparente entre fournisseurs et établissements de santé.",
+      "highlights": [
+        "Gestion et suivi des stocks multi-entrepôts",
+        "Traitement automatisé des commandes et flux de travail d'exécution",
+        "Gestion des relations fournisseurs et clients"
+      ]
+    }
+  },
+  "process": {
+    "title": "Notre",
+    "titleHighlight": "processus",
+    "description": "Nous suivons une approche structurée pour fournir des solutions qui correspondent parfaitement à vos besoins.",
+    "step1": {
+      "title": "Découverte et analyse",
+      "description": "Nous commençons par comprendre vos défis et exigences uniques grâce à des consultations approfondies."
+    },
+    "step2": {
+      "title": "Conception de solution",
+      "description": "Nos experts conçoivent un plan de solution sur mesure qui répond à vos besoins spécifiques."
+    },
+    "step3": {
+      "title": "Développement",
+      "description": "Notre équipe de développement qualifiée donne vie à la solution en utilisant des technologies de pointe."
+    },
+    "step4": {
+      "title": "Tests et assurance qualité",
+      "description": "Des tests rigoureux garantissent que votre solution répond aux normes les plus élevées de performance et de sécurité."
+    },
+    "step5": {
+      "title": "Support",
+      "description": "Nous fournissons une formation, un déploiement et un support continu pour assurer votre succès."
+    },
+    "step6": {
+      "title": "Évolution",
+      "description": "Nous améliorons continuellement nos solutions en fonction de vos commentaires et des tendances de l'industrie."
+    }
+  },
+  "services": {
+    "title": "Nos",
+    "titleHighlight": "services",
+    "description": "Nous offrons des solutions logicielles complètes adaptées aux besoins uniques des professionnels de la santé.",
+    "softwareDevelopment": {
+      "title": "Développement logiciel",
+      "description": "Solutions logicielles de santé personnalisées conçues pour répondre à vos besoins spécifiques."
+    },
+    "integrationServices": {
+      "title": "Services d'intégration",
+      "description": "Intégration transparente avec les systèmes de santé existants et les applications tierces."
+    },
+    "dataManagement": {
+      "title": "Gestion des données",
+      "description": "Gestion sécurisée et efficace des données des patients et des dossiers de santé."
+    },
+    "technicalSupport": {
+      "title": "Support technique",
+      "description": "Support technique et maintenance 24/7 pour toutes nos solutions logicielles de santé."
+    }
+  },
+  "about": {
+    "title": "À propos de",
+    "titleHighlight": "CureOx",
+    "description": "Notre projet représente un système complet qui intègre divers éléments et parties prenantes dans les services médicaux. Il facilite une communication transparente et fournit des solutions de santé holistiques en comblant le fossé entre les prestataires de soins de santé et les bénéficiaires.",
+    "mission": {
+      "title": "Notre mission",
+      "description": "Donner aux prestataires de soins de santé une technologie qui améliore les soins aux patients et l'efficacité opérationnelle."
+    },
+    "vision": {
+      "title": "Notre vision",
+      "description": "Être le principal fournisseur de solutions logicielles de santé intégrées à l'échelle mondiale."
+    },
+    "team": {
+      "title": "Notre équipe",
+      "description": "Un groupe diversifié d'experts combinant connaissances en santé et excellence technique."
+    }
+  },
+  "offlineApps": {
+    "title": "Applications de bureau",
+    "titleHighlight": "hors ligne",
+    "description": "Travaillez sans interruption avec nos versions bureau hors ligne. Toutes les fonctionnalités disponibles même sans connexion Internet, avec synchronisation automatique lorsque vous êtes de nouveau en ligne.",
+    "dental": {
+      "name": "Application bureau clinique dentaire",
+      "description": "Accès hors ligne complet aux dossiers patients, planification et facturation pour votre cabinet dentaire."
+    },
+    "pharmacy": {
+      "name": "Application bureau pharmacie",
+      "description": "Gérez l'inventaire et les ordonnances hors ligne avec synchronisation cloud transparente."
+    },
+    "medical": {
+      "name": "Application bureau clinique médicale",
+      "description": "Capacités complètes de DSE et gestion de clinique disponibles hors ligne pour des soins ininterrompus."
+    },
+    "learnMore": "En savoir plus"
+  },
+  "offlineProductContent": {
+    "dentalOffline": {
+      "name": "Application de bureau clinique dentaire",
+      "long": "Application de bureau puissante pour les cliniques dentaires. Travaillez sans interruption sans connexion Internet avec un accès complet aux dossiers patients, planification, graphiques et facturation. La synchronisation automatique en ligne garantit que vos données sont toujours à jour.",
+      "highlights": [
+        "Fonctionnalité hors ligne complète sans Internet requis",
+        "Synchronisation cloud automatique lorsque la connexion est disponible",
+        "Gestion complète des patients et graphiques cliniques"
+      ]
+    },
+    "pharmacyOffline": {
+      "name": "Application de bureau pharmacie",
+      "long": "Solution de bureau robuste pour les pharmacies. Gérez l'inventaire, traitez les ordonnances et servez les clients sans dépendance Internet. Toutes les données se synchronisent automatiquement lorsque vous êtes de nouveau en ligne.",
+      "highlights": [
+        "Gestion hors ligne de l'inventaire et des ordonnances",
+        "Synchronisation cloud transparente",
+        "Support complet du flux de travail de pharmacie"
+      ]
+    },
+    "medicalOffline": {
+      "name": "Application de bureau clinique médicale",
+      "long": "Application de bureau complète pour les cliniques médicales. Accédez au DSE, gérez les rendez-vous et documentez les visites sans connexion Internet. La synchronisation automatique garantit la cohérence des données sur tous les appareils.",
+      "highlights": [
+        "Accès complet au DSE hors ligne",
+        "Gestion des rendez-vous et facturation",
+        "Synchronisation automatique des données"
+      ]
+    }
+  },
+  "cta": {
+    "title": "Prêt à moderniser votre pratique de santé ?",
+    "description": "Découvrez CureOx en action avec nos démos de produits interactives adaptées à votre flux de travail de clinique ou de pharmacie.",
+    "requestDemo": "Essayer la démo",
+    "talkToSales": "Parler aux ventes"
+  },
+  "footer": {
+    "tagline": "Transformer la santé avec des solutions logicielles innovantes.",
+    "quickLinks": "Liens rapides",
+    "home": "Accueil",
+    "services": "Services",
+    "products": "Produits",
+    "contact": "Contact",
+    "location": "États-Unis",
+    "legal": "Légal",
+    "privacyPolicy": "Politique de confidentialité",
+    "contactSupport": "Contacter le support",
+    "copyright": "© 2025 CureOx. Tous droits réservés."
+  },
+  "pricing": {
+    "titlePart1": "Tarification simple",
+    "titlePart2": "et transparente",
+    "description": "Choisissez le produit qui correspond le mieux à votre clinique ou pharmacie. Pas de frais cachés, pas d'engagement à long terme.",
+    "perMonth": "/ an",
+    "choosePlan": "Choisir le plan",
+    "viewProductDetails": "Voir les détails du produit"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "description": "Choisissez votre moyen préféré pour nous joindre. Nous sommes là pour vous aider !",
+    "selectedPlan": "Plan sélectionné",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Discutez avec nous instantanément sur WhatsApp",
+    "emailContact": "Email",
+    "emailDesc": "Envoyez-nous un email et nous vous répondrons rapidement"
+  },
+  "demo": {
+    "title": "Explorez les produits CureOx",
+    "description": "Faites une visite guidée de nos solutions logicielles de santé. Découvrez comment chaque produit peut transformer votre pratique.",
+    "interactiveTutorial": "Tutoriel interactif",
+    "selectProduct": "Choisissez un produit à explorer",
+    "step": "Étape",
+    "of": "sur",
+    "previous": "Précédent",
+    "next": "Étape suivante",
+    "startSubscription": "Commencer l'abonnement",
+    "viewProductDetails": "Voir tous les détails du produit",
+    "requestLiveDemo": "Demander une démo en direct",
+    "dental": {
+      "step1": {
+        "title": "Graphique dentaire",
+        "description": "Un outil visuel qui aide les dentistes à marquer l'état de chaque dent, qu'elle soit traitée ou nécessite un traitement. Il fournit une manière structurée et claire de documenter les soins dentaires.",
+        "feature1": "Diagramme visuel des dents",
+        "feature2": "Marquer les dents traitées et non traitées",
+        "feature3": "Ajouter des notes pour chaque dent"
+      },
+      "step2": {
+        "title": "Plans de traitement",
+        "description": "Permet aux dentistes de construire un plan de traitement complet pour chaque patient, incluant les séances, les étapes et le coût estimé. Il aide à suivre les progrès et à expliquer clairement le parcours de traitement au patient.",
+        "feature1": "Créer des plans personnalisés pour les patients",
+        "feature2": "Suivre les progrès pour chaque étape",
+        "feature3": "Estimer le coût et les séances"
+      },
+      "step3": {
+        "title": "Photos de cas",
+        "description": "Permet aux dentistes de télécharger des images avant-après pour les cas dentaires, aidant à l'évaluation, à la documentation et à montrer visuellement aux patients leurs progrès.",
+        "feature1": "Télécharger des images avant/après",
+        "feature2": "Stocker des images par dent ou traitement",
+        "feature3": "Comparer les progrès au fil du temps"
+      }
+    },
+    "pharmacy": {
+      "step1": {
+        "title": "Traitement des ordonnances",
+        "description": "Aide les pharmaciens à recevoir et vérifier les ordonnances numériques, puis à mettre à jour leur statut comme distribuées ou en attente. Cela accélère le flux de travail et réduit les erreurs.",
+        "feature1": "Recevoir des ordonnances numériques",
+        "feature2": "Vérifier les informations du médecin et du patient",
+        "feature3": "Marquer l'ordonnance comme distribuée"
+      },
+      "step2": {
+        "title": "Recherche de stock",
+        "description": "Permet aux pharmaciens de vérifier rapidement la disponibilité des médicaments et de suggérer des alternatives appropriées lorsqu'un article est en rupture de stock, améliorant l'efficacité du service aux patients.",
+        "feature1": "Vérifier la disponibilité des médicaments",
+        "feature2": "Suggérer des alternatives en cas de rupture de stock",
+        "feature3": "Afficher la quantité et la date d'expiration"
+      },
+      "step3": {
+        "title": "Demandes d'approvisionnement",
+        "description": "Permet aux pharmaciens de soumettre des demandes d'approvisionnement en médicaments à l'entrepôt et de suivre leur statut jusqu'à la livraison, prévenant les ruptures de stock dans la pharmacie.",
+        "feature1": "Créer des demandes d'approvisionnement à l'entrepôt",
+        "feature2": "Suivre les demandes en attente",
+        "feature3": "Notifier lors de la livraison des articles"
+      }
+    },
+    "clinic": {
+      "step1": {
+        "title": "Accès au dossier patient",
+        "description": "Donne aux médecins une vue complète de l'historique de santé de chaque patient, les aidant à prendre des décisions médicales précises et à comprendre les diagnostics ou allergies antérieurs sans dépendre de dossiers papier.",
+        "feature1": "Vue complète de l'historique médical",
+        "feature2": "Allergies et diagnostics antérieurs",
+        "feature3": "Notes de visite avec horodatage"
+      },
+      "step2": {
+        "title": "Contrôle des rendez-vous",
+        "description": "Permet aux médecins de gérer leurs demandes de réservation en acceptant, refusant ou mettant à jour les statuts de rendez-vous. Cela aide à maintenir un calendrier quotidien ou hebdomadaire organisé.",
+        "feature1": "Approuver ou refuser les réservations",
+        "feature2": "Marquer le statut du rendez-vous (en attente, terminé)",
+        "feature3": "Vue du calendrier quotidien/hebdomadaire"
+      },
+      "step3": {
+        "title": "Rédaction d'ordonnances électroniques",
+        "description": "Permet aux médecins de créer rapidement des ordonnances numériques et de les envoyer directement aux pharmacies. L'objectif est de réduire les erreurs d'écriture manuscrite et de simplifier le processus de distribution pour les patients et les pharmaciens.",
+        "feature1": "Ajouter des médicaments avec dosage",
+        "feature2": "Remplissage automatique des médicaments courants",
+        "feature3": "Envoyer l'ordonnance directement à la pharmacie"
+      }
+    },
+    "patient": {
+      "step1": {
+        "title": "Gestion des rendez-vous",
+        "description": "Cette fonctionnalité permet aux patients de réserver des rendez-vous avec diverses spécialités médicales et de consulter facilement les visites à venir et passées. Elle offre une expérience de planification fluide sans besoin d'appels téléphoniques ou de temps d'attente.",
+        "feature1": "Réserver des rendez-vous avec différentes spécialités",
+        "feature2": "Consulter les rendez-vous à venir et passés",
+        "feature3": "Recevoir des notifications de rappel"
+      },
+      "step2": {
+        "title": "Ordonnances numériques",
+        "description": "Permet aux patients d'accéder à toutes leurs ordonnances électroniques dans un format organisé et clair, les aidant à comprendre leurs médicaments et les instructions d'utilisation. Les ordonnances peuvent également être téléchargées si nécessaire.",
+        "feature1": "Accéder à toutes les ordonnances émises par les médecins",
+        "feature2": "Télécharger les ordonnances en PDF",
+        "feature3": "Consulter clairement les instructions de médicaments"
+      },
+      "step3": {
+        "title": "Aperçu des dossiers médicaux",
+        "description": "Fournit aux patients une vue centralisée de leur historique médical complet, incluant les résultats de laboratoire, les rapports et les images médicales. Il sert de référence de santé permanente et facilement accessible.",
+        "feature1": "Consulter les résultats de laboratoire et les rapports",
+        "feature2": "Suivre les conditions chroniques",
+        "feature3": "Stockage cloud sécurisé pour tous les documents médicaux"
+      }
+    },
+    "distributor": {
+      "step1": {
+        "title": "Gestion des stocks",
+        "description": "Permet au personnel de l'entrepôt de gérer entièrement le stock de médicaments, y compris l'ajout de nouveaux lots, la mise à jour des quantités et la surveillance des dates d'expiration pour un contrôle précis des stocks.",
+        "feature1": "Ajouter et mettre à jour les stocks de médicaments",
+        "feature2": "Suivre les numéros de lot",
+        "feature3": "Surveiller les dates d'expiration"
+      },
+      "step2": {
+        "title": "Exécution des approvisionnements de pharmacie",
+        "description": "Permet à l'entrepôt de recevoir les demandes d'approvisionnement des pharmacies, de les approuver et de préparer les médicaments requis pour la livraison en temps opportun.",
+        "feature1": "Recevoir les demandes de pharmacie",
+        "feature2": "Approuver ou refuser les commandes",
+        "feature3": "Générer des bordereaux de livraison"
+      },
+      "step3": {
+        "title": "Rapports mensuels",
+        "description": "Fournit des rapports mensuels détaillés tels que les alertes de stock faible, les médicaments expirés ou proches de l'expiration, et les quantités livrées à chaque pharmacie, soutenant de meilleures décisions opérationnelles.",
+        "feature1": "Rapport des articles en faible stock",
+        "feature2": "Rapport des articles expirés/proche de l'expiration",
+        "feature3": "Quantités livrées par pharmacie"
+      }
+    }
+  },
+  "login": {
+    "title": "Bon retour",
+    "description": "Connectez-vous pour gérer vos produits CureOx, consulter les analyses et configurer votre organisation.",
+    "emailAddress": "Adresse email",
+    "password": "Mot de passe",
+    "signingIn": "Connexion en cours...",
+    "signIn": "Se connecter",
+    "termsNotice": "En continuant, vous acceptez les conditions d'utilisation et la politique de confidentialité de CureOx.",
+    "invalidEmail": "Veuillez entrer une adresse email valide.",
+    "enterPassword": "Veuillez entrer votre mot de passe."
+  },
+  "checkout": {
+    "title": "Paiement",
+    "description": "Choisissez le plan qui vous convient le mieux.",
+    "selectedProduct": "Produit sélectionné",
+    "individualPlans": "Plans individuels",
+    "centerPlans": "Plans pour centres",
+    "plan1": "Essai gratuit",
+    "plan1Duration": "15 jours gratuits",
+    "plan2": "2 mois",
+    "plan2Duration": "Accès de 2 mois",
+    "plan3": "1 an",
+    "plan3Duration": "Accès de 12 mois",
+    "plan4": "2 ans",
+    "plan4Duration": "Accès de 24 mois",
+    "popular": "Populaire",
+    "selectPlan": "Sélectionner le plan",
+    "enterprisePlan": "Plan entreprise",
+    "enterpriseDescription": "Solutions personnalisées pour les centres médicaux et les grandes organisations avec support dédié.",
+    "contactUs": "Nous contacter"
+  },
+  "verifyEmail": {
+    "title": "Vérifiez votre email",
+    "pageDescription": "Entrez l'email et le code de vérification envoyés dans votre boîte de réception pour terminer l'activation du compte.",
+    "emailAddress": "Adresse email",
+    "verificationCode": "Code de vérification",
+    "invalidEmail": "Veuillez entrer une adresse email valide.",
+    "enterCode": "Veuillez entrer le code de vérification.",
+    "verifying": "Vérification en cours...",
+    "verifyEmail": "Vérifier l'email",
+    "successMessage": "Email vérifié avec succès. Vous pouvez maintenant vous connecter.",
+    "failedMessage": "La vérification a échoué. Veuillez vérifier le code et réessayer."
+  },
+  "paymentStatus": {
+    "processingTitle": "Traitement du paiement",
+    "processingMessage": "Nous confirmons vos détails de paiement. Cela prend généralement quelques instants.",
+    "successTitle": "Paiement réussi",
+    "successMessage": "Merci de vous être abonné à CureOx. Un reçu a été envoyé à votre email.",
+    "failedTitle": "Échec du paiement",
+    "failedMessage": "Nous n'avons pas pu traiter votre paiement. Veuillez réessayer ou contacter le support.",
+    "reference": "Référence :"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : 2025",
+    "intro1": "CureOx crée des logiciels de santé qui aident les organisations à gérer les données cliniques et opérationnelles en toute sécurité. Nous nous engageons à protéger la vie privée des prestataires et des patients qui utilisent nos produits.",
+    "intro2": "Cette page est une représentation concise de la politique complète du site CureOx original et peut être étendue avec votre équipe juridique si nécessaire.",
+    "infoCollectTitle": "Informations que nous collectons",
+    "infoCollectText": "Nous pouvons collecter des coordonnées, des identifiants de compte, des analyses d'utilisation et des informations techniques limitées sur les appareils accédant à nos services.",
+    "howWeUseTitle": "Comment nous utilisons les informations",
+    "howWeUseText": "Les données sont utilisées pour fournir et améliorer nos produits, sécuriser l'accès, répondre aux demandes de support et se conformer aux réglementations applicables.",
+    "securityTitle": "Sécurité et conformité",
+    "securityText": "CureOx applique des mesures de protection techniques et organisationnelles conçues pour la sécurité de niveau santé, y compris le chiffrement, les contrôles d'accès et la surveillance.",
+    "contactTitle": "Contact",
+    "contactText": "Pour toute question concernant cette politique ou la protection des données, veuillez contacter privacy@cureox.com."
+  },
+  "common": {
+    "switchToArabic": "العربية",
+    "switchToEnglish": "English",
+    "switchToFrench": "Français"
+  }
+}
