@@ -1,5 +1,6 @@
 'use client';
 
+import { use } from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { useTranslations } from 'next-intl';
@@ -7,13 +8,14 @@ import { formatCurrency } from '@/utils/format';
 import { getOfflineProductById } from '../offline-data';
 
 type OfflineProductPageProps = {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 };
 
 export default function OfflineProductPage({ params }: OfflineProductPageProps) {
+  const { id } = use(params);
   const t = useTranslations('products');
   const productCopy = useTranslations('offlineProductContent');
-  const product = getOfflineProductById(params.id);
+  const product = getOfflineProductById(id);
 
   if (!product) {
     notFound();

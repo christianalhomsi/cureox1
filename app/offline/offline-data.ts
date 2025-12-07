@@ -26,6 +26,10 @@ const offlineProducts: OfflineProduct[] = [
   }
 ];
 
+export function getAllOfflineProducts(): OfflineProduct[] {
+  return offlineProducts;
+}
+
 export function getOfflineProductById(id: string): OfflineProduct | undefined {
   return offlineProducts.find((p) => p.id === id);
 }
