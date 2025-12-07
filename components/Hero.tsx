@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, rgba(0, 97, 165, 0.6), #020617)' }} />
         <Image
-          src="/images/HeroSection.jfif"
+          src="/images/HeroSection.jpg"
           alt="Healthcare software hero"
           fill
           className="object-cover opacity-40"
