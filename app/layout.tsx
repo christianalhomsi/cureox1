@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import I18nProvider from '@/i18n/I18nProvider';
 import NavigationLoader from '@/components/NavigationLoader';
+import TopLoadingBar from '@/components/TopLoadingBar';
 
 const cairo = Cairo({
   subsets: ['arabic', 'latin'],
@@ -67,6 +68,7 @@ export default function RootLayout({
     <html lang="en" className={`${cairo.variable} dark-mode`} suppressHydrationWarning>
       <body className="bg-[var(--bg-primary)] text-[var(--text-primary)] transition-colors duration-300">
         <I18nProvider>
+          <TopLoadingBar />
           <NavigationLoader />
           <Navbar />
           <main className="pt-20 min-h-screen">

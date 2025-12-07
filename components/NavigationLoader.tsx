@@ -79,7 +79,7 @@ export default function NavigationLoader() {
   if (!isLoading) return null;
 
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-[var(--bg-primary)]/95 backdrop-blur-md transition-opacity duration-300">
+    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-[var(--bg-primary)] backdrop-blur-md transition-opacity duration-300">
       <div className="flex flex-col items-center gap-6">
         {/* Spinning loader with gradient */}
         <div className="relative">
