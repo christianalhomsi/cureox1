@@ -45,20 +45,12 @@ export default function OfflineProductPage({ params }: OfflineProductPageProps) 
                   {formatCurrency(product.annualPrice)}{' '}
                   <span className="text-sm text-theme-muted font-normal">{t('perMonth')}</span>
                 </p>
-                <div className="flex flex-wrap gap-4">
-                  <Link
-                    href={{ pathname: '/checkout', query: { product: product.id } }}
-                    className="btn-primary"
-                  >
-                    {t('startSubscription')}
-                  </Link>
-                  <Link
-                    href="/contact"
-                    className="bg-theme-card border border-theme text-sm px-5 py-2 rounded-md hover:opacity-80 text-theme-primary transition-opacity"
-                  >
-                    {t('requestLiveDemo')}
-                  </Link>
-                </div>
+                <Link
+                  href="/contact"
+                  className="btn-primary"
+                >
+                  {t('startSubscription')}
+                </Link>
               </div>
 
               <div className="rounded-2xl overflow-hidden border border-theme shadow-2xl">
