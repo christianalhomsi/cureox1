@@ -14,7 +14,7 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: 'CureOx',
+  title: 'Cureox',
   description: 'Healthcare software solutions for clinics, pharmacies, and patients.',
   keywords: [
     'healthcare software',
