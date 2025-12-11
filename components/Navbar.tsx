@@ -175,7 +175,7 @@ export default function Navbar() {
 	                {t('contactUs')}
 	                {/* Arrow Right icon - Heroicons (MIT License) */}
 	                <svg
-	                  className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5"
+	                  className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5 rtl:group-hover:-translate-x-0.5 rtl:rotate-180"
 	                  viewBox="0 0 24 24"
 	                  fill="none"
 	                  stroke="currentColor"
@@ -319,7 +319,7 @@ export default function Navbar() {
 	                {t('contactUs')}
 	                {/* Arrow Right icon - Heroicons (MIT License) */}
 	                <svg
-	                  className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5"
+	                  className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5 rtl:group-hover:-translate-x-0.5 rtl:rotate-180"
 	                  viewBox="0 0 24 24"
 	                  fill="none"
 	                  stroke="currentColor"

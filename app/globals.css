@@ -172,6 +172,18 @@ html.rtl .rtl\:mr-auto {
   margin-left: 0;
 }
 
+html.rtl .rtl\:rotate-180 {
+  transform: rotate(180deg);
+}
+
+html.rtl .rtl\:group-hover\:-translate-x-1:hover {
+  transform: translateX(-0.25rem);
+}
+
+html.rtl .rtl\:hover\:-translate-x-1:hover {
+  transform: translateX(-0.25rem);
+}
+
 /* Custom Scrollbar Styles */
 /* Dark mode scrollbar */
 html.dark-mode {

@@ -48,7 +48,7 @@ export default function CTA() {
             >
               {t('requestDemo')}
               <svg
-                className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1"
+                className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:rotate-180"
                 viewBox="0 0 24 24"
                 fill="none"
                 stroke="currentColor"

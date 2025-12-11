@@ -40,11 +40,11 @@ export default function ProductCard({ title, description, image, href, index = 0
         <div className="flex items-center justify-between mt-2">
           <Link
             href={href}
-            className="text-sm font-medium transition-all duration-300 hover:translate-x-1 inline-flex items-center gap-1"
+            className="text-sm font-medium transition-all duration-300 hover:translate-x-1 rtl:hover:-translate-x-1 inline-flex items-center gap-1"
             style={{ color: '#01C4F0' }}
           >
             {t('viewDetails')}
-            <svg className="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg className="w-4 h-4 transition-transform group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
             </svg>
           </Link>
