@@ -53,9 +53,9 @@ export const metadata: Metadata = {
     'حلول الرعاية الصحية'
   ],
   icons: {
-    icon: '/logo/logo.png',
-    shortcut: '/logo/logo.png',
-    apple: '/logo/logo.png',
+    icon: '/logo/logo.svg',
+    shortcut: '/logo/logo.svg',
+    apple: '/logo/logo.svg',
   },
 };
 

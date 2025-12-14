@@ -54,9 +54,9 @@ export default function LanguageSwitcher() {
   };
 
   const flags: Record<Locale, string> = {
-    en: '/lang_icon/uk_icon.png',
-    ar: '/lang_icon/ksa_icon.png',
-    fr: '/lang_icon/france_icon.png'
+    en: '/lang_icon/uk-flag.svg',
+    ar: '/lang_icon/ksa-flag.svg',
+    fr: '/lang_icon/france-flag.svg'
   };
 
   return (

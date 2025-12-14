@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/">
               <Image
-                src="/logo/logo.png"
+                src="/logo/logo.svg"
                 alt="CureOx Logo"
                 width={48}
                 height={48}

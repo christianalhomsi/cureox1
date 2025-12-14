@@ -78,7 +78,7 @@ export default function Navbar() {
 	            style={theme === 'light' ? { backgroundImage: 'linear-gradient(to right, #0061A5, #01C4F0)' } : undefined}
 	          >
 	            <Image
-              src="/logo/logo.png"
+              src="/logo/logo.svg"
               alt="CureOx Logo"
               width={56}
               height={56}
