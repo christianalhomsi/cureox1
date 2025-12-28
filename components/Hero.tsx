@@ -14,11 +14,11 @@ export default function Hero() {
   }, []);
 
   return (
-    <section id="home" className="relative pt-32 pb-20 overflow-hidden">
+    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, rgba(0, 97, 165, 0.6), #020617)' }} />
         <Image
-          src="/images/HeroSection.jpg"
+          src="/images/herosection.png"
           alt="Healthcare software hero"
           fill
           className="object-cover opacity-40"
@@ -38,7 +38,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="section-container relative">
+      <div className="section-container relative w-full">
         <div className="max-w-3xl text-center mx-auto">
           <h1
             className={`text-4xl md:text-6xl font-bold mb-6 text-white transition-all duration-700 ${isLoaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}

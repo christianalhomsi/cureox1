@@ -92,7 +92,7 @@ export default function NavigationLoader() {
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="h-12 w-12 rounded-full overflow-hidden bg-[var(--bg-primary)] p-1">
               <Image
-                src="/logo/logo.png"
+                src="/logo/logo.svg"
                 alt="CureOx Logo"
                 width={48}
                 height={48}
